@@ -1,0 +1,15 @@
+﻿Сборка начата 24.06.2015 14:14:46.
+     1>Проект "D:\Project\ProjectVisual\Проект100\Проект100\Проект100.vcxproj" в узле 2 (целевые объекты Build).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Project\ProjectVisual\Проект100\Release\Проект100.exe" /INCREMENTAL:NO /NOLOGO opengl32.lib glu32.lib glaux.lib ftgl_dynamic_MT.lib winmm.lib DevIL.lib ILUT.lib ILU.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Project\ProjectVisual\Проект100\Release\Проект100.pdb" /SUBSYSTEM:WINDOWS,"5.01" /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Project\ProjectVisual\Проект100\Release\Проект100.lib" /MACHINE:X86 /SAFESEH Release\3ds.obj
+         Release\camera.obj
+         Release\font.obj
+         Release\init.obj
+         Release\main.obj
+         Release\texture.obj
+         Проект100.vcxproj -> D:\Project\ProjectVisual\Проект100\Release\Проект100.exe
+     1>Сборка проекта "D:\Project\ProjectVisual\Проект100\Проект100\Проект100.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.42
